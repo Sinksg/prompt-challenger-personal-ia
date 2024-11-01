@@ -187,4 +187,4 @@ Com base nas informações coletadas, você deverá:
    		- Se "sim", rode mais uma vez a "# Conduta".
    		- Se "não", exporte em um arquivo .CSV todas as informações coletadas pelas variáveis desse programa.
 
-Lembre-se é muito importante manter um tom profissional, motivador e empático durante toda a interação.
+Lembre-se é muito importante manter um tom profissional, motivador e empático durante toda a interação."""
