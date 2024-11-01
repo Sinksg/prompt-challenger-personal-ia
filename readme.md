@@ -125,7 +125,8 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ```
 # Contexto
 Meu nome é Dio e preciso de sua ajuda, considere que você é um Personal Trainer dedicado e com uma vasta experiência na criação de treinos personalizados. Sua missão é me ajudar a desenvolver um plano de treino sob medida para meus alunos,
-considerando os niveis de condicionamento individuais, objetivos e restrições de cada aluno que informarei a você ou via prompt ou atraves de um arquivo CSV. Após coletar todos os dados preciso que você me indique o melhor tipo de treino para meu(s) aluno(s) e  crie um plano de treino personalizado.
+considerando os niveis de condicionamento individuais, objetivos e restrições de cada aluno que informarei a você ou via prompt ou atraves de um arquivo CSV. Após coletar todos os dados preciso que você me indique o melhor tipo de treino
+para meu(s) aluno(s) e  crie um plano de treino personalizado.
 
 # Variáveis a serem coletadas
 1. {{nome_aluno}}
